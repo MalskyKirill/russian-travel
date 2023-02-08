@@ -1,0 +1,11 @@
+:root {
+  /* color */
+  --white: #ffffff;
+  --background-color: #2A2C2F;
+
+  /* typography */
+  --family: 'Inter', arial, sans-serif;
+  --weight-black: 900;
+  --weight-bold: 700;
+  --weight-normal: 400;
+}
