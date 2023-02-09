@@ -1,0 +1,17 @@
+.intro {
+  padding: 0 16px 64px;
+  text-align: left;
+}
+
+@media (min-width: 768px) {
+  .intro {
+    padding: 0 24px 88px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .intro {
+    padding: 0 0 92px;
+    max-width: 690px;
+  }
+}
