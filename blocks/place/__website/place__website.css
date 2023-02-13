@@ -1,0 +1,18 @@
+.place__website {
+  padding: 0 16px 32px;
+}
+
+@media (min-width: 768px) {
+  .place__website {
+    padding: 0 0 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+}
+
+@media (min-width: 1024px) {
+  .place__website {
+    padding: 0;
+  }
+}

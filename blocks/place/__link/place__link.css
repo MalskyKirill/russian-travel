@@ -1,0 +1,15 @@
+.place__link {
+  color: var(--white);
+  text-decoration: none;
+  border-bottom: 1px #fff solid;
+  position: relative;
+  display:inline-block;
+}
+
+@media (min-width: 768px) {
+  .place__link {
+    font-size: 18px;
+    line-height: 1.22;
+
+  }
+}
