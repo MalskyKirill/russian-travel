@@ -1,0 +1,25 @@
+.footer {
+  background-color: var(--background-color);
+  display: flex;
+  padding: 60px 0 24px 16px;
+  justify-content: space-between;
+  max-width: 1184px;
+  margin: 0 auto;
+  flex-direction: column;
+}
+
+
+@media (min-width: 768px) {
+  .footer {
+      padding: 88px 24px 24px;
+      flex-direction: row;
+  }
+}
+
+@media (min-width: 1024px) {
+  .footer {
+      padding: 88px 48px 24px;
+  }
+}
+
+

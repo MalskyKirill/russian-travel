@@ -1,0 +1,11 @@
+.footer__copiring {
+  font-size: 14px;
+  line-height: 14px;
+  margin: 0;
+}
+
+@media (man-width: 768px) {
+  .footer__copiring {
+      line-height: 16px;
+  }
+}
