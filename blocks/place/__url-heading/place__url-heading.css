@@ -6,3 +6,9 @@
   letter-spacing: 2.4px;
   padding-bottom: 15px;
 }
+
+@media (min-width: 1024px) {
+  .place__url-heading {
+    padding-bottom: 8px;
+  }
+}
