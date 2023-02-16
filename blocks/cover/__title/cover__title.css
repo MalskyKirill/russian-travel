@@ -21,3 +21,10 @@
     margin: 198px 0 30px;
   }
 }
+
+
+@media (min-width: 1280px) {
+  .cover__title {
+    margin: 242px 0 30px;
+  }
+}

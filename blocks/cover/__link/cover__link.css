@@ -43,3 +43,10 @@
     min-height: calc(100vw/1.58);
   }
 }
+
+@media (min-width: 1280px) {
+  .cover__link {
+    min-height: calc(100vw/1.73)
+  }
+}
+
