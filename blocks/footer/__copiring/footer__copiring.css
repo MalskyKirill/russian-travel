@@ -4,7 +4,7 @@
   margin: 0;
 }
 
-@media (man-width: 768px) {
+@media (min-width: 768px) {
   .footer__copiring {
       line-height: 16px;
   }
