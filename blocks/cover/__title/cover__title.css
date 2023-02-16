@@ -12,5 +12,6 @@
   .cover__title {
     font-size: 72px;
     line-height: 1.09;
+    margin: 128px 0 30px;
   }
 }

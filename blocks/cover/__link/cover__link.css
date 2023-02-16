@@ -32,6 +32,12 @@
   opacity: 0.8;
 }
 
+@media (min-width: 768px) {
+  .cover__link {
+    justify-content: flex-start;
+  }
+}
+
 @media (min-width: 1024px) {
   .cover__link {
     min-height: 740px;
