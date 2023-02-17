@@ -1,12 +1,12 @@
 .cover__link {
   width: 100%;
-  min-height: calc(100vw/1.55);
+  min-height: calc(100vw/1.61);
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   position: relative;
   background-image: url(../../../images/cover-trains.jpg);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
   text-align: center;
@@ -35,6 +35,7 @@
 @media (min-width: 768px) {
   .cover__link {
     justify-content: flex-start;
+    min-height: calc(100vw/1.54);
   }
 }
 
