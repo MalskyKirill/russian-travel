@@ -1,6 +1,6 @@
 .cover__link {
   width: 100%;
-  min-height: calc(100vw/1.61);
+  min-height: 200px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -35,19 +35,19 @@
 @media (min-width: 768px) {
   .cover__link {
     justify-content: flex-start;
-    min-height: calc(100vw/1.54);
+    min-height: 480px;
   }
 }
 
 @media (min-width: 1024px) {
   .cover__link {
-    min-height: calc(100vw/1.58);
+    min-height: 640px;
   }
 }
 
 @media (min-width: 1280px) {
   .cover__link {
-    min-height: calc(100vw/1.73);
+    min-height: 740px;
   }
 }
 

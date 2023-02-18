@@ -13,13 +13,13 @@
     max-width: 560px;
     font-size: 72px;
     line-height: 1.09;
-    margin: 122px 0 30px;
+    margin: 112px 0 30px;
   }
 }
 
 @media (min-width: 1024px) {
   .cover__title {
-    margin: 198px 0 30px;
+    margin: 193px 0 30px;
   }
 }
 
