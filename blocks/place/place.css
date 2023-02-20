@@ -14,7 +14,10 @@
     grid-template-columns: 340px 1fr;
     grid-template-rows: 1fr;
     grid-column-gap: 28px;
+  }
 
+  .place:nth-child(4) {
+    padding-bottom: 40px;
   }
 }
 

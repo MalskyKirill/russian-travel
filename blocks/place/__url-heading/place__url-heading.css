@@ -5,6 +5,7 @@
   line-height: 1;
   letter-spacing: 2.4px;
   padding-bottom: 12px;
+  text-transform: uppercase;
 }
 
 @media (min-width: 1024px) {

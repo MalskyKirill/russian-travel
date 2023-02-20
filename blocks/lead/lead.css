@@ -1,6 +1,7 @@
 .lead {
   text-align: center;
   padding-bottom: 64px;
+  max-width: 928px;
 }
 
 @media (min-width: 768px) {
@@ -12,5 +13,11 @@
 @media (min-width: 1024px) {
   .lead {
     padding-bottom: 92px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .lead {
+    max-width: 984px;
   }
 }
