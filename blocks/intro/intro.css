@@ -17,9 +17,18 @@
   }
 }
 
+@media (min-width: 1025px) {
+  .intro {
+    align-self: center;
+    padding: 0 0 92px;
+    width: 928px;
+  }
+}
+
 @media (min-width: 1280px) {
   .intro {
     padding: 0 0 92px 148px;
     max-width: 984px;
+    align-self: start;
   }
 }

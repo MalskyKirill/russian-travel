@@ -38,4 +38,8 @@
     max-width: 984px;
     grid-template-columns: minmax(320px, 460px) minmax(288px, 484px);
   }
+
+  .place:nth-child(4) {
+    padding-bottom: 80px;
+  }
 }

@@ -1,6 +1,8 @@
 .header__link {
   font-size: 18px;
   line-height: 1.11;
+  color: var(--white);
+  text-decoration: none;
 }
 
 .header__link:hover {

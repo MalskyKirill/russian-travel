@@ -16,6 +16,12 @@
   }
 }
 
+@media (min-width: 769px) and (max-width: 1023px) {
+  .cover__title {
+    margin: 175px 0 30px;
+  }
+}
+
 @media (min-width: 1024px) {
   .cover__title {
     margin: 193px 0 30px;
